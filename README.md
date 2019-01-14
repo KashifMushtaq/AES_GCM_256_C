@@ -30,12 +30,14 @@ Another purpose of this article is to combine all three major programming langua
 
 You can also read more about Crypto++ AES GCM implementation or algorithm itself here and [here](https://www.cryptopp.com/).
 
-### For C++
+### For C++:
 ### Please include Crypto++ Project in your test project.
 ### Correct include and linked library paths if required.
 
 
 ### [C# Verion](https://github.com/KashifMushtaq/AesGcm256)
+### [C++ Verion](https://github.com/KashifMushtaq/AES_GCM_256_C)
+### [Java Verion](https://github.com/KashifMushtaq/Aes256GCM_Java)
 
 
 
