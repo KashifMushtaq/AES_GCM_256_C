@@ -1,6 +1,6 @@
 # C++ Version of AES 256 GCM
 
-# Cross Platform AES 256 GCM Encryption / Decryption (C++ and Crypto++)
+### Cross Platform AES 256 GCM Encryption / Decryption (C++ and Crypto++)
 
 ![C++ Version](https://github.com/KashifMushtaq/AES_GCM_256_C/blob/master/CTest.jpg)
 
