@@ -35,9 +35,9 @@ You can also read more about Crypto++ AES GCM implementation or algorithm itself
 ### Correct include and linked library paths if required.
 
 
-### [C# Verion](https://github.com/KashifMushtaq/AesGcm256)
-### [C++ Verion](https://github.com/KashifMushtaq/AES_GCM_256_C)
-### [Java Verion](https://github.com/KashifMushtaq/Aes256GCM_Java)
+### [C# Version](https://github.com/KashifMushtaq/AesGcm256)
+### [C++ Version](https://github.com/KashifMushtaq/AES_GCM_256_C)
+### [Java Version](https://github.com/KashifMushtaq/Aes256GCM_Java)
 
 
 
